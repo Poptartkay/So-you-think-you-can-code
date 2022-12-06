@@ -64,3 +64,7 @@ As I stated before, I was unsucessful with adding in the timer, I will most like
 ## Author
 Kay Ford
 
+![Screenshot (31)](https://user-images.githubusercontent.com/91912984/205984276-1414d5de-4303-4710-a872-492aa89e8913.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/91912984/205984283-70b8b48f-c02a-400b-912a-35549a3a19c8.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/91912984/205984286-57164657-e2c0-4a0e-bfa3-f85c27c6fff7.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/91912984/205984421-5143cfba-e738-4681-a735-b28a93d89769.png)
