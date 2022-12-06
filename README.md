@@ -33,8 +33,7 @@ THEN I can save my initials and score
 ​
 ### Links
 ​
-- Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://poptartkay.github.io/So-you-think-you-can-code/
 
 ​
 ### Built with
