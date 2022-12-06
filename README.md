@@ -3,7 +3,7 @@
 ## Table of contents
 ​
   - [The challenge](#the-challenge)
-  - [Links](
+  - [Links]
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
